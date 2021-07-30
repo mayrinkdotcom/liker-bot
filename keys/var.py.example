@@ -1,2 +1,5 @@
 BRAVE_PATH = 'your/path/here'
 DRIVER_PATH = 'your/path/here'
+
+EMAIL_ADDRES = 'example@mail.com'
+EMAIL_PASSWORD = 'YourEmailPasswordHere'
